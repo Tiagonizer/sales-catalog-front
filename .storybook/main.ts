@@ -1,4 +1,5 @@
 import type { StorybookConfig } from '@storybook/react-vite';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const config: StorybookConfig = {
   "stories": [
